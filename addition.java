@@ -6,6 +6,6 @@
             int first = 30;
             int second = 40;
             int sum = first + second;
-            System.out.println("The sum is: " + sum);
+            System.out.println("total sum: " + sum);
         }
     }
